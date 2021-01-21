@@ -1,0 +1,71 @@
+	1. What is Object Oriented Programming?
+		a. Allows it to be scalable and more easily maintained
+	2. What are the 4 pillars of OOP?
+		a. encapsulation
+		b. abstraction
+		c. inheritance
+		d. polymorphism
+		
+	3. What is Encapsulation?
+		a. functions and classes include code that can be used and re-used throughout the code
+	4. What is Inheritance
+		a. Such as classes inheriting from other classes, don't have to repeat code.  Allows us to write DRY methodology
+	5. What is Abstraction?
+		a. Hiding the process from the user
+	6. What is Polymorphism?
+		a. Classes - can create different instances, so that it can take on different shapes
+	7. What is HTML?
+		a. Hypertext Markup Language
+		b. Used for website structure, used to communicate with client
+	8. What is CSS?
+		a. Cascading Style Sheets
+		b. Used to style websites
+	9. What is the other front-end language?
+		a. Javascript
+	10. What does it do on front-end?
+		a. Makes it more interactive, gives it functionality
+	11. HTTP Response cycle?
+		a. User submits a request (GET/POST/etc.), request gets sent to the server, which then pulls information from the database or elsewhere to provide a response to the client
+		b. As Adrien says, it's like going to a bar and making a drink order.  You put in the order, the bartender (controller) takes liquors from the shelf (database), puts it together in the right way, and serves it to you
+	12. What is the difference between a method and an attribute?
+		a. A method is a function, an attribute is a variable within the class
+	13. What are the differences between a list and a dictionary?
+		a. a dictionary is a group of key-value pairs, while a list is a numbered index
+		b. Do dictionaries have a length?  Yes, in python, but not in JS
+	14. What is the equivalent of a list in JS?
+		a. An Array
+	15. Is there any difference between an array and a list?
+		a. Not really, they're pretty similar
+	16. Can anybody explain the csrf token in Django?
+		a. It's a security feature
+		b. Used with forms
+		c. Brings in a random string attached to a form
+		d. Creates a hidden input, validates that form data is coming from the application
+		e. POST request could be made without submitting a form, so token ensures that POST data is coming from the website
+	17. What does "self" mean in Python?
+		a. Refers to an instance of itself, used within a class to define attributes and methods about the instance
+	18. What is the difference between display inline and display inline block?
+		a. inline-block allows you to set width and height
+	19. What are some other display properties in CSS?
+		a. Flex
+		b. Grid
+		c. table
+	20. Can anybody describe the behavior of a singly-linked list?
+		a. Consists of a list of nodes, node has next and val, list has a head
+		b. head indicates the start, a pointer at the first node
+	21. What is agile development?
+		a. A style of project management which focuses on early user involvement and quick turnarounds
+	22. Can you apply agile development to something else?
+		a. Probably
+	23. Why is user integration so important in the development process?
+		a. Provides early feedback to development team
+	24. What is MVP when talking about applications?
+		a. Minimum Viable Product
+		b. The most basic version of your application that can then be user-tested
+		
+		
+		
+		
+		
+		
+		
